@@ -24,7 +24,7 @@ Before writing code, I spent 8 years in public accounting, primarily working as 
 | Metric / Area | Focus |
 | :--- | :--- |
 | 🔭 **Current Focus** | Designing a financial SaaS application (bridging my accounting expertise with fullstack web tools to solve a high-friction problem) |
-| 🧠 **Learning & Exploring** | Fullstack web architectures, AI systems integration, and growth strategy (including SEO, AEO optimization, and targeted advertising) |
+| 🧠 **Learning & Exploring** | Fullstack web architectures, AI systems integration (Prompt Engineering, Stable Diffusion/Generative AI models), and growth strategy (including SEO, AEO optimization, and targeted advertising) |
 | ⚡ **Fun Fact** | I designed my very first website and logo from scratch in HTML & CSS at age 14! |
 
 ---
@@ -41,6 +41,10 @@ Before writing code, I spent 8 years in public accounting, primarily working as 
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <br/>
+  <!-- AI & Image Generation -->
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-OpenAI-%2300f2fe?style=for-the-badge&logo=openai&logoColor=black" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-Generative%20AI-%23b162ff?style=for-the-badge&logo=stability-ai&logoColor=white" alt="Stable Diffusion" />
   <br/>
   <!-- Core Standards -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
