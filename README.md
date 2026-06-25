@@ -15,7 +15,7 @@ I am a **Certified Public Accountant turned Software Engineer**.
 
 My shift into software engineering is a vertical evolution rather than a horizontal pivot. While my objective is not simply to write tax or financial software, I am driven to build practical, scalable applications that target and solve real, existing problems.
 
-Before writing code, I spent 8 years in accounting, primarily working as a tax accountant specializing in compliance, planning, and strategy across various industries, alongside experience as a financial statement auditor. This background instilled in me a deep appreciation for handling complex systems, absolute precision, and structural rigor—qualities I apply directly to software development.
+Before writing code, I spent 8 years in accounting, primarily working as a tax accountant specializing in compliance, planning, and strategy across various industries, alongside experience as a financial statement auditor. Today, I leverage that analytical background to build modern fullstack web applications and optimize them for search, visibility, and user growth.
 
 ---
 
@@ -23,8 +23,8 @@ Before writing code, I spent 8 years in accounting, primarily working as a tax a
 
 | Metric / Area | Focus |
 | :--- | :--- |
-| 🔭 **Current Focus** | Designing a financial SaaS application (bridging my accounting expertise with modern engineering tools to solve a high-friction problem) |
-| 🧠 **Learning & Exploring** | AI systems integration, advanced Python, and backend scalability |
+| 🔭 **Current Focus** | Designing a financial SaaS application (bridging my accounting expertise with fullstack web tools to solve a high-friction problem) |
+| 🧠 **Learning & Exploring** | AI systems integration, fullstack web architectures, and growth strategy (including SEO, AEO optimization, and targeted advertising) |
 | ⚡ **Fun Fact** | I designed my very first website and logo from scratch in HTML & CSS at age 14! |
 
 ---
