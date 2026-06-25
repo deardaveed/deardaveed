@@ -49,7 +49,7 @@ Before writing code, I spent 8 years in public accounting, primarily working as 
   <img src="https://img.shields.io/badge/Prompt%20Engineering-%2300f2fe?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Stable%20Diffusion-%23b162ff?style=for-the-badge&logo=stability-ai&logoColor=white" alt="Stable Diffusion" />
   <img src="https://img.shields.io/badge/AI%20Agents-%23b162ff?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/pgvector-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/RAG-%23b162ff?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/Vector%20Databases-%2300f2fe?style=for-the-badge" alt="Vector Databases" />
   <br/>
   <!-- Core Standards -->
