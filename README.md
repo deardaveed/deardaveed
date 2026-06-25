@@ -15,7 +15,7 @@ I am a **Certified Public Accountant turned Software Engineer**.
 
 My shift into software engineering is a vertical evolution rather than a horizontal pivot. While my objective is not simply to write tax or financial software, I am driven to build practical, scalable applications that target and solve real, existing problems.
 
-Before writing code, I spent 8 years as a tax accountant specializing in compliance, planning, and strategy across various industries. This background instilled in me a deep appreciation for handling complex systems, absolute precision, and structural rigor—qualities I apply directly to software development.
+Before writing code, I spent 8 years in accounting, primarily working as a tax accountant specializing in compliance, planning, and strategy across various industries, alongside experience as a financial statement auditor. This background instilled in me a deep appreciation for handling complex systems, absolute precision, and structural rigor—qualities I apply directly to software development.
 
 ---
 
