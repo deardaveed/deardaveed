@@ -43,8 +43,8 @@ Before writing code, I spent 8 years in public accounting, primarily working as 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <br/>
   <!-- AI & Image Generation -->
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-OpenAI-%2300f2fe?style=for-the-badge&logo=openai&logoColor=black" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-Generative%20AI-%23b162ff?style=for-the-badge&logo=stability-ai&logoColor=white" alt="Stable Diffusion" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2300f2fe?style=for-the-badge&logo=openai&logoColor=black" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-%23b162ff?style=for-the-badge&logo=stability-ai&logoColor=white" alt="Stable Diffusion" />
   <br/>
   <!-- Core Standards -->
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
