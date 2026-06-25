@@ -42,9 +42,15 @@ Before writing code, I spent 8 years in public accounting, primarily working as 
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <br/>
-  <!-- AI & Image Generation -->
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2300f2fe?style=for-the-badge&logo=openai&logoColor=black" alt="Prompt Engineering" />
+  <!-- AI & Generative Engineering -->
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-black?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI APIs" />
+  <img src="https://img.shields.io/badge/Anthropic%20APIs-%23191919?style=for-the-badge&logo=anthropic&logoColor=%23CC9E74" alt="Anthropic APIs" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2300f2fe?style=for-the-badge" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Stable%20Diffusion-%23b162ff?style=for-the-badge&logo=stability-ai&logoColor=white" alt="Stable Diffusion" />
+  <img src="https://img.shields.io/badge/AI%20Agents-%23b162ff?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/pgvector-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-%2300f2fe?style=for-the-badge" alt="Vector Databases" />
   <br/>
   <!-- Core Standards -->
   <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
