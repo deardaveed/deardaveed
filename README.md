@@ -47,7 +47,7 @@ Before writing code, I spent 8 years in public accounting, primarily working as 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=deardaveed&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe&accent_color=b162ff&count_private=true&include_all_commits=true" alt="David's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=deardaveed&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe&accent_color=b162ff&include_all_commits=true" alt="David's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deardaveed&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe&accent_color=b162ff&langs_count=6" alt="David's Top Languages" width="100%" />
