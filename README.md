@@ -1,29 +1,72 @@
-<h1 align="center">Hi 👋, I'm David Huang</h1>
-<h3 align="center">CPA ➩ SWE</h3>
-<h4 align="center">Certified Public Accountant to Software Engineer</h4>
+<p align="center">
+  <img src="./banner.svg" alt="David Huang - Certified Public Accountant to Software Engineer" width="100%">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deardaveed&label=Profile%20views&color=0e75b6&style=flat" alt="deardaveed" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-h-374b30154/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:daveman@gmail.com"><img src="https://img.shields.io/badge/Email-daveman%40gmail.com-%2300f2fe?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222" alt="Email"></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deardaveed" alt="deardaveed" /></a> </p>
+---
 
-- 🔭 I’m currently working on **studying for Python**
+### 🚀 Professional Journey
 
-- 🌱 I’m currently learning **Python**
+I am a **Certified Public Accountant turned Software Engineer**. 
 
-- 👨‍💻 All of my projects are available at <a href="http://www.github.com/deardaveed">http://www.github.com/deardaveed</a>
+My shift into software engineering is a vertical evolution rather than a horizontal pivot. While my objective is not simply to write tax or financial software, I am driven to build practical, scalable applications that target and solve real, existing problems.
 
-- 📫 How to reach me - **daveman (replace-@-symbol-here) gmail (replace-period-here) com**
+Before writing code, I spent 8 years as a tax accountant specializing in compliance, planning, and strategy across various industries. This background instilled in me a deep appreciation for handling complex systems, absolute precision, and structural rigor—qualities I apply directly to software development.
 
-- 📄 Learn about my experiences - [https://www.linkedin.com/in/david-h-374b30154/](https://www.linkedin.com/in/david-h-374b30154/)
+---
 
-- ⚡ Fun fact - **I designed my very own website beginning at 14! From HTML, to CSS, and even the Logo, was designed by me from scratch!**
+### 💻 Current Endeavors
 
+| Metric / Area | Focus |
+| :--- | :--- |
+| 🔭 **Current Focus** | Designing a financial SaaS application (bridging my accounting expertise with modern engineering tools to solve a high-friction problem) |
+| 🧠 **Learning & Exploring** | AI systems integration, advanced Python, and backend scalability |
+| ⚡ **Fun Fact** | I designed my very first website and logo from scratch in HTML & CSS at age 14! |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deardaveed&show_icons=true&locale=en&layout=compact" alt="deardaveed" /></p>
+### 🛠️ Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deardaveed&show_icons=true&locale=en" alt="deardaveed" /></p>
+<p align="left">
+  <!-- Core & Languages -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br/>
+  <!-- Backend Systems & Libraries -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deardaveed&" alt="deardaveed" /></p>
+---
+
+### 📊 GitHub Activity & Metrics
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=deardaveed&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe&accent_color=b162ff" alt="David's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deardaveed&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=00f2fe&accent_color=b162ff&langs_count=6" alt="David's Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top" width="100%">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deardaveed&theme=dark&background=0d1117&ring=00f2fe&fire=b162ff&currStreakNum=c9d1d9&currStreakLabel=00f2fe&sideNums=c9d1d9&sideLabels=00f2fe&dates=c9d1d9" alt="David's Readme Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deardaveed&label=Profile%20views&color=00f2fe&style=flat-square" alt="deardaveed views" />
+</p>
