@@ -31,31 +31,14 @@ Before writing code, I spent 8 years in public accounting, primarily working as 
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <!-- Highly Searched Fullstack Stack -->
-  <img src="https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <br/>
-  <!-- AI & Generative Engineering -->
-  <img src="https://img.shields.io/badge/OpenAI%20APIs-black?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI APIs" />
-  <img src="https://img.shields.io/badge/Anthropic%20APIs-%23191919?style=for-the-badge&logo=anthropic&logoColor=%23CC9E74" alt="Anthropic APIs" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-%2300f2fe?style=for-the-badge" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-%23b162ff?style=for-the-badge&logo=stability-ai&logoColor=white" alt="Stable Diffusion" />
-  <img src="https://img.shields.io/badge/AI%20Agents-%23b162ff?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG-%23b162ff?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-%2300f2fe?style=for-the-badge" alt="Vector Databases" />
-  <br/>
-  <!-- Core Standards -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+#### 💻 Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### 🤖 AI & Generative Engineering
+![OpenAI APIs](https://img.shields.io/badge/OpenAI%20APIs-black?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic APIs](https://img.shields.io/badge/Anthropic%20APIs-%23191919?style=for-the-badge&logo=anthropic&logoColor=%23CC9E74) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%2300f2fe?style=for-the-badge) ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%23b162ff?style=for-the-badge&logo=stability-ai&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-%23b162ff?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-%23b162ff?style=for-the-badge) ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-%2300f2fe?style=for-the-badge)
+
+#### 🌐 Core Web Standards
+![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
